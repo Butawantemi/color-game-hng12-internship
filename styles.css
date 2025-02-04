@@ -61,6 +61,10 @@ body {
     border: 2px solid orangered;
 }
 
+p {
+    font-size: 1.2rem;
+    font-weight: 600;
+}
 
 .correct {
     animation: bounce 0.5s ease-in-out;
