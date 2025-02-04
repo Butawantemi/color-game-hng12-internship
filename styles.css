@@ -25,6 +25,7 @@ body {
     border-radius: 8px;
     padding: 20px;
     text-align: center;
+    box-shadow: rgb(0, 0, 0, 0.3) 0px 4px 12px;
 }
 
 .color-options {
