@@ -21,4 +21,16 @@ A fun and interactive game where users guess the correct color from multiple opt
 4. If you guess correctly, the box bounces 🎉; if wrong, it shakes ❌.  
 5. Click **"New Game"** to restart and try again!  
 
-## 📂 Project Structure
+## 🖥️ Setup & Usage
+1. **Clone the repository**  
+   ```bash
+   git clone https://github.com/yourusername/color-guessing-game.git
+
+2. Navigate into the project directory
+   ```bash
+   cd color-guessing-game
+   
+3. Open index.html in a browser
+
+    Double-click the file, or
+    Use VS Code Live Server extension
