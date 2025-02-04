@@ -48,14 +48,14 @@ function checkGuess(event) {
         event.target.classList.add("correct");
 
         setTimeout(() => {
-            event.target.classList.remove("correct"); // Remove after animation
+            event.target.classList.remove("correct");
         }, 500);
     } else {
         gameStatus.textContent = "Wrong! Try again. ❌";
         event.target.classList.add("wrong");
 
         setTimeout(() => {
-            event.target.classList.remove("wrong"); // Remove after animation
+            event.target.classList.remove("wrong"); 
         }, 500);
     }
 }
