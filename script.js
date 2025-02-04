@@ -1,12 +1,20 @@
-// Array of predefined colors
-const colors = ["#2C3E50", "#34495E", "#2C2C2C", "#616A6B", "#4A235A", "#2F4F4F"];
+/*
+====================================
+    Color Guessing Game Script
+    - Randomly selects a color
+    - Allows user to guess the correct color
+    - Provides visual feedback on guesses
+====================================
+*/
 
 // Select HTML elements
 const colorBox = document.getElementById("colorBox");
 const colorOptions = document.querySelectorAll(".colorOption");
 const gameStatus = document.getElementById("gameStatus");
 const scoreDisplay = document.getElementById("score");
-const newGameButton = document.getElementById("newGameButton");
+
+// Array of predefined colors
+const colors = ["#2C3E50", "#34495E", "#2C2C2C", "#616A6B", "#4A235A", "#2F4F4F"];
 
 let targetColor;
 let score = 0;
