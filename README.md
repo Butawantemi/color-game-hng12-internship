@@ -24,12 +24,12 @@ A fun and interactive game where users guess the correct color from multiple opt
 ## 🖥️ Setup & Usage
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/yourusername/color-guessing-game.git
+   git clone https://github.com/Butawantemi/color-game-hng12-internship
 
 2. Navigate into the project directory
    ```bash
-   cd color-guessing-game
-   
+   cd color-game-hng12-internship
+
 3. Open index.html in a browser
 
     Double-click the file, or
